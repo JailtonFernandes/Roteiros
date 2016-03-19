@@ -5,3 +5,4 @@ terceiro commit
 informações branch novo
 
 criando regras de SSH
+Regra CRIADA COM SUCESSO
